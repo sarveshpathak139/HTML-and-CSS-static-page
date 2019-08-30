@@ -1,0 +1,81 @@
+h1 {
+    height: 10px;
+    margin-left: 300px;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+    color: rgb(221, 68, 7);
+    text-align: center;
+}
+
+img {
+    float: left;
+    margin-left: 10px;
+    margin-top: 0;
+}
+
+.links a {
+    float: left;
+    margin-left: 0px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #3897f0;
+}
+
+.links a:hover {
+    color: black;
+}
+
+.p {
+    float: left;
+    margin-top: 200px;
+}
+
+.footer {
+    margin-top: 500px;
+    color: orangered;
+}
+
+.rightside {
+    float: right;
+    height: 50px;
+}
+
+.rightside img {
+    float: right;
+    height: 150px;
+}
+
+div.info {
+    font-size: 10px;
+    margin-left: 300px;
+    top: 20%;
+}
+
+.hr {
+    border-bottom: 2px solid black;
+    top: 0px;
+}
+
+.forms {
+    float: left;
+    margin-left: 200px;
+    margin-right: 300px;
+    text-align: center;
+    font-size: 10px;
+    margin-top: 0px;
+}
+
+button.btn {
+    background-color: #3897f0;
+    border: 1px solid #3897f0;
+    border-radius: 4px;
+    color: white;
+    position: relative;
+}
+
+.login a {
+    text-decoration: none;
+    color: #3897f0;
+}
